@@ -1,5 +1,9 @@
 # Authoring collaborative research projects in Quarto
 
+Video here:
+
+https://www.youtube.com/watch?v=f0N8ZikQycg&list=PLx6WzpVrFFhGD2vMOayaj7ylHeKhsO4IO&index=7
+
 Learn how to develop reproducible and sharable workflows using Quarto and Git. We will take you through how to host collaborative research projects as a formatted (and cool looking) HTML on GitHub. With some easy-to-learn version control and markdown syntax, research outputs can be shared as a live link that is consistent with your latest analyses. One benefit of Quarto is flexibility, accepting multiple programming languages (R, Python, Julia...) and output formats (docx, pdf, html...).
 
 ## Requirements
